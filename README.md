@@ -1,5 +1,5 @@
 # Woodz
-**Woodz** is a webpage project built using HTML, CSS, and JavaScript as part of an assignment for the **Inventors Community**. The project showcases modern web development practices and design aesthetics to create an engaging and user-friendly experience. Visit [Woodz]().
+**Woodz** is a webpage project built using HTML, CSS, and JavaScript as part of an assignment for the **Inventors Community**. The project showcases modern web development practices and design aesthetics to create an engaging and user-friendly experience. Visit [Woodz](https://marvellous-udoye.github.io/woodz/).
 
 ---
 
